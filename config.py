@@ -69,7 +69,7 @@ ADMIN_PASSWORD = os.getenv("ADMIN_PASSWORD", "H44PBHTWWP4LS0N5")
 # 🔹 LOGGING CONFIGURATION
 # ==========================================================
 
-LOG_CHANNEL_ID = int(os.getenv("LOG_CHANNEL_ID", -1003559364122))
+LOG_CHANNEL_ID = int(os.getenv("LOG_CHANNEL_ID", -1004300961551))
 LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
 
 
